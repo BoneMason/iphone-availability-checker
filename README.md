@@ -10,12 +10,11 @@ The code is quick and dirty, but it gets the job done.
 
 ## Requirements:
 - node
-- npm
 
 ## Usage:
 1. Clone.
 2. Edit model numbers, stores, and pushover details (if desired; not necessary).
 3. `npm install`
-4. npm start
+4. `npm start`
 
 <!--- cheers! ---> :beers:
