@@ -1,7 +1,7 @@
 {
   "name": "iphoneavailability",
-  "version": "0.0.1",
-  "description": "Checks iPhone availability by model at a specific store.",
+  "version": "1.0.0",
+  "description": "Checks iPhone availability by model at a specific store or stores.",
   "main": "checkAvailability.js",
   "dependencies": {
     "lodash": "^3.10.1",
